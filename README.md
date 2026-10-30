@@ -61,6 +61,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Canvas Maker for Spotify Artists](https://spotifyedits.com) - Make a looping 9:16 Canvas video, artist header, avatar and cover art for a Spotify release. Encodes in the browser with WebCodecs, so files are never uploaded.
 * [Video Size Reducer](https://videosizereducer.org) - Compress MP4 videos right in your browser with the WebCodecs API; no upload, no account needed.
 * [Html2MP4](https://html2mp4.com) - Turn HTML, website URLs, prompts, and templates into frame-accurate MP4 videos online. Free to try, no sign-up required.
+* [YouTube Summarizer](https://youtubesummarizer.org) - Free YouTube video summarizer: paste a public link to get key takeaways, structured summary, or a detailed article. Captions only, no download or sign-up.
 * [audiotest.io](https://audiotest.io) - Free in-browser audio test toolkit with stereo left/right channel test, frequency sweep, tone generator, bass response test, headphone test and tinnitus frequency test. All tests run client-side, bilingual EN/ZH.
 * [Whisper Web](https://whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * [Vizz.fm](https://vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
@@ -296,6 +297,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
 * [7emoji](https://7emoji.fun) - AI emoji translator that turns text into up to 10 context-matched emoji suggestions to copy. Free to try, no sign-up.
+* [IsWeber](https://isweber.com) - AI YouTube content generator for creators: topic to outline, script, titles, and hooks. Text packaging only, free to try without an account.
 
 
 <a name="utilities"></a>
