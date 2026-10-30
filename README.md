@@ -282,6 +282,8 @@ To save the world from creating user accounts and installing software applicatio
 
 
 <a name="text-tools"></a>
+* [AI Story Writer](https://aistorywriter.org) - Free AI story writer for kids: short family-safe stories with illustrations and narration. No signup required.
+
 ### Text based tools
 
 * [Diff Checker](https://www.diffchecker.com/) - Compare two text passages and view differences.
